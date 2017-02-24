@@ -1,0 +1,4 @@
+﻿"revolve_angle" = 60
+"part_width" = 0.125
+"notch_offset" = 1 / 8
+"screw_diam"= 0.125
